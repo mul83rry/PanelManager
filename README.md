@@ -15,12 +15,12 @@ Hide panel with tag "Menu"
 ```
 
 
-**PanelManager.Instance.HideAllPanel**
+**PanelManager.Instance.HideAllPanel()**
 ```
 hide all panel
 ```
 
-**PanelManager.Instance.HideAllPopup**
+**PanelManager.Instance.HideAllPopup()**
 ```
 hide all popup panel
 ```
