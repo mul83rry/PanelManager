@@ -1,5 +1,5 @@
 # PanelManager
-## easy management your panels in game
+## easily manage your panels
 
 ![mul83rry](https://github.com/mul83rry/PanelManager/blob/main/Panel%20Manager.PNG)
 
