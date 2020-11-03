@@ -4,24 +4,23 @@
 ![mul83rry](https://github.com/mul83rry/PanelManager/blob/main/Panel%20Manager.PNG)
 
 
-**PanelManager.Instance["Menu"].Show()**
-```
 show panel with tag "Menu"
+```javascript
+PanelManager.Instance["Menu"].Show()
 ```
 
-**PanelManager.Instance["Menu"].Hide()**
-```
 Hide panel with tag "Menu"
+```javascript
+PanelManager.Instance["Menu"].Hide()
 ```
 
-
-**PanelManager.Instance.HideAllPanel()**
-```
 hide all panel
+```javascript
+PanelManager.Instance.HideAllPanel()
 ```
 
-**PanelManager.Instance.HideAllPopup()**
-```
 hide all popup panel
+```javascript
+PanelManager.Instance.HideAllPopup()
 ```
 
